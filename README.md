@@ -28,7 +28,10 @@ Evaluating monthly revenue trends.
 Investigating revenue trends by hotel type.
 Determining average customer ratings per city.
 Examining revenue contributions by booking platforms.
-Skills and Tools Utilized
+
+
+**Skills and Tools Utilized**
+
 Python Programming: Advanced skills in Python for data analysis, cleaning, transformation, and visualization.
 Data Visualization: Utilized Matplotlib to create compelling charts and visualizations.
 Pandas Library: Expertise in creating and manipulating DataFrames, using groupby functions, concatenating and merging datasets, handling missing values, and reading/writing CSV files.
@@ -43,7 +46,9 @@ Evaluating monthly revenue trends.
 Investigating revenue trends by hotel type.
 Determining average customer ratings per city.
 Examining revenue contributions by booking platforms.
-Skills and Tools Utilized
+
+**Skills and Tools Utilized**
+
 Python Programming: Advanced skills in Python for data analysis, cleaning, transformation, and visualization.
 Data Visualization: Utilized Matplotlib to create compelling charts and visualizations.
 Pandas Library: Expertise in creating and manipulating DataFrames, using groupby functions, concatenating and merging datasets, handling missing values, and reading/writing CSV files.
